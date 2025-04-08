@@ -2,16 +2,11 @@
 
 <div align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/GreenVenom77/Bad_Words_Detector)
-![GitHub forks](https://img.shields.io/github/forks/GreenVenom77/Bad_Words_Detector)
-![GitHub watchers](https://img.shields.io/github/watchers/GreenVenom77/Bad_Words_Detector)
-![GitHub last commit](https://img.shields.io/github/last-commit/GreenVenom77/Bad_Words_Detector)
-![Github Created At](https://img.shields.io/github/created-at/GreenVenom77/Bad_Words_Detector?color=1a73e8)
-</div>
-
-<div align="center">
-  
-  ![Alt](https://repobeats.axiom.co/api/embed/06548b9abd015ac3db9f0b5dc8656d425fe5672d.svg "Repobeats analytics image")
+![GitHub Repo stars](https://img.shields.io/github/stars/FCI-Suez-2021-2025/Bad-Words-Detector)
+![GitHub forks](https://img.shields.io/github/forks/FCI-Suez-2021-2025/Bad-Words-Detector)
+![GitHub watchers](https://img.shields.io/github/watchers/FCI-Suez-2021-2025/Bad-Words-Detector)
+![GitHub last commit](https://img.shields.io/github/last-commit/FCI-Suez-2021-2025/Bad-Words-Detector)
+![Github Created At](https://img.shields.io/github/created-at/FCI-Suez-2021-2025/Bad-Words-Detector?color=1a73e8)
 </div>
 
 A project given to FCI 2021-2025 Suez University Class to test their capabilities in the subject.
